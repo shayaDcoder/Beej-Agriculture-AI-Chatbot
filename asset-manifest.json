@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Beej/static/css/main.b969a62d.css",
+    "main.js": "/Beej/static/js/main.29b94aad.js",
+    "index.html": "/Beej/index.html",
+    "main.b969a62d.css.map": "/Beej/static/css/main.b969a62d.css.map",
+    "main.29b94aad.js.map": "/Beej/static/js/main.29b94aad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b969a62d.css",
+    "static/js/main.29b94aad.js"
+  ]
+}
